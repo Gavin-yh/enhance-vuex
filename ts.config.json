@@ -1,0 +1,9 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "anyImplicitAny": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true
+    }
+}
